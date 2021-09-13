@@ -15,23 +15,23 @@
 
 先CServer，再启动CClient。
 
-![](.\imags\启动server.png)
+![](./imags/启动server.png)
 
-![](.\imags\启动client.png)
+![](./imags/启动client.png)
 
 配置并行
 
-![](.\imags\配置客户端并行.png)
+![](./imags/配置客户端并行.png)
 
-![](.\imags\配置客户端并行2.png)
+![](./imags/配置客户端并行2.png)
 
-![](.\imags\再启动一个client.png)
+![](./imags/再启动一个client.png)
 
 2.连接
 
 输入昵称，点击连接按钮
 
-![](.\imags\连接服务器.png)
+![](./imags/连接服务器.png)
 
 ###### 聊天
 
@@ -39,13 +39,13 @@
 
 在聊天框中输入内容即可聊天。
 
-![](.\imags\公共聊天.png)
+![](./imags/公共聊天.png)
 
 **私聊：**
 
-![](.\imags\准备发送私聊.png)
+![](./imags/准备发送私聊.png)
 
-![](.\imags\发送完私聊.png)
+![](./imags/发送完私聊.png)
 
 私聊格式为
 
